@@ -45,4 +45,5 @@ pip install -r requirements.txt
 # Run application
 python main.py
 
-resource and reference (Tech with Tim) https://github.com/techwithtim/LangGraph-Tutorial/tree/main
+# Resource and reference
+(Tech with Tim) https://github.com/techwithtim/LangGraph-Tutorial/tree/main
