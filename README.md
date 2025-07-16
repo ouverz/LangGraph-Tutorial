@@ -11,7 +11,7 @@ Built with LangGraph and Anthropic.
 ## 🚀 Features
 
 - 📄 Two agentic chatbots are invoked
--     User messages are classified into either logical or emotional responses
+- 📄 User messages are classified into either logical or emotional responses
 - ✍️ Auto-generated responses to user messages given the determined message class 
 - 🧠 Stateful application
 - 💬 Easy prompt interface to generate applications
