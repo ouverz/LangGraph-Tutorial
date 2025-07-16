@@ -30,7 +30,7 @@ Built with LangGraph and Anthropic.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ouverz/job-agent.git
+git clone https://github.com/ouverz/LangGraph-Tutorial.git
 cd LangGraph-
 
 # Add Anthropic API KEy to .env file
